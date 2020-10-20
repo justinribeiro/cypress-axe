@@ -1,6 +1,6 @@
-# cypress-axe
+# @justinribeiro/cypress-axe
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![npm version](https://badge.fury.io/js/%40justinribeiro%2Fcypress-axe.svg)](https://badge.fury.io/js/%40justinribeiro%2Fcypress-axe) [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 This package provides three simple [Cypress](https://cypress.io) commands to help test your applications for accessibility issues using [axe-core](https://github.com/dequelabs/axe-core).
 
@@ -9,7 +9,7 @@ This package provides three simple [Cypress](https://cypress.io) commands to hel
 ### Add as a dev dependency:
 
 ```sh
-npm i -D cypress-axe
+npm i -D @justinribeiro/cypress-axe
 ```
 
 ### Install peer dependencies:
